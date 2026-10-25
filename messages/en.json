@@ -1,0 +1,432 @@
+{
+  "Metadata": {
+    "title": "Prime Wood Global | Cameroon Hardwood Logs & Sawn Timber Exporter",
+    "description": "High-grade Cameroon hardwood logs and sawn timber Azobé, Tali, Sapelli, Padouk, Ayous, Iroko supplied to international commercial buyers through Douala and Kribi deep-water ports.",
+    "keywords": "Cameroon timber, African hardwood, Azobé, Tali, Sapelli, Padouk, Ayous, Iroko, timber supplier Cameroon, wood export, Douala port, Kribi port, sawn timber, hardwood logs"
+  },
+  "company": {
+    "name": "Prime Wood Global",
+    "shortName": "PWG",
+    "legalName": "Prime Wood Global Ltd",
+    "country": "Cameroon",
+    "origin": "Cameroon, Central Africa (Congo Basin)",
+    "tagline": "Cameroon Hardwood Logs & Sawn Timber Exporter",
+    "subtitle": "Supplying high-grade African hardwood logs and precision-sawn timber to international importers, contractors, and manufacturers worldwide.",
+    "phone": "+237 6 74 42 98 93",
+    "phoneDisplay": "+237 6 74 42 98 93",
+    "phoneHref": "tel:+237674429893",
+    "whatsapp": "+237 6 74 42 98 93",
+    "whatsappLink": "https://wa.me/237674429893?text=Hello%20Prime%20Wood%20Global%2C%20I%20would%20like%20to%20discuss%20a%20timber%20inquiry.",
+    "email": "primewoodglobal@gmail.com",
+    "emailHref": "mailto:primewoodglobal@gmail.com?subject=Timber%20Export%20Inquiry",
+    "facebook": "https://www.facebook.com/primewoodglobal",
+    "facebookDisplay": "facebook.com/primewoodglobal",
+    "locations": {
+      "kribi": {
+        "title": "Forestry & Sourcing Base",
+        "address": "Bipindi - Kribi, South Region, Cameroon",
+        "nearPort": "Kribi Deep-Water Port"
+      },
+      "douala": {
+        "title": "Commercial & Export Operations",
+        "address": "Douala, Littoral Region, Cameroon",
+        "nearPort": "Port of Douala"
+      }
+    },
+    "ports": "Port of Douala & Kribi Deep-Water Port",
+    "workingHours": "Mon - Sat: 08:00 - 18:00 (GMT+1) | Export Desk 24/7 on WhatsApp",
+    "typicalMOQ": "1 Twenty-Foot Equivalent Unit (approx. 20 - 25 m³ depending on species and format)"
+  },
+  "nav": {
+    "home": "Home",
+    "species": "Timber Species",
+    "sawnTimber": "Sawn Timber",
+    "logs": "Timber Logs",
+    "exportLogistics": "Export & Logistics",
+    "sourcing": "Responsible Sourcing",
+    "about": "About Us",
+    "faq": "Buyer FAQ",
+    "contact": "Contact",
+    "requestQuote": "Request a Quote",
+    "whatsappTeam": "WhatsApp Us"
+  },
+  "topBar": {
+    "banner": "Cameroon Origin · Direct Commercial Hardwood Supply · Douala & Kribi Ports",
+    "whatsappLabel": "WhatsApp: +237 6 74 42 98 93",
+    "emailLabel": "primewoodglobal@gmail.com",
+    "facebookLabel": "Facebook"
+  },
+  "hero": {
+    "badge": "Cameroon Hardwood Exporter · Douala & Kribi Ports",
+    "titlePrefix": "Premium Cameroon Hardwood",
+    "titleHighlight": "Logs & Sawn Timber",
+    "titleSuffix": "for Global Importers",
+    "description": "High-grade commercial hardwood logs and precision-sawn timber Azobé, Tali, Sapelli, Padouk, and Ayous supplied directly from Cameroon to international wholesalers, contractors, and manufacturers.",
+    "ctaQuote": "Request an Export Quote",
+    "ctaWhatsApp": "WhatsApp Export Desk",
+    "stats": {
+      "species": {
+        "value": "Commercial Species",
+        "detail": "Azobé, Tali, Sapelli, Padouk & more"
+      },
+      "products": {
+        "value": "Logs & Sawn Timber",
+        "detail": "Round logs, rough-sawn & dimensioned"
+      },
+      "origin": {
+        "value": "Cameroon Origin",
+        "detail": "Congo Basin verified sourcing"
+      },
+      "ports": {
+        "value": "Douala & Kribi",
+        "detail": "Deep-water international shipping"
+      }
+    }
+  },
+  "species": {
+    "badge": "Our Timber Species",
+    "title": "Cameroon Hardwoods for Commercial Use",
+    "subtitle": "We focus on commercially established, high-demand African hardwoods from Cameroon with proven international standards for marine, civil, joinery, and decorative applications.",
+    "viewAll": "Explore All Species",
+    "items": [
+      {
+        "id": "azobe",
+        "name": "Azobé",
+        "scientificName": "Lophira alata",
+        "tradeNames": "Ekki, Red Ironwood, Bongossi",
+        "category": "Heavy Marine & Civil",
+        "density": "1,050 - 1,150 kg/m³ (Very Heavy)",
+        "durability": "Class 1 - Very Durable",
+        "color": "Dark red-brown to violet-brown with white mineral deposits",
+        "description": "One of the heaviest and most durable commercial hardwoods in the world. Renowned for supreme resistance to marine borers, rot, and severe mechanical stress.",
+        "uses": ["Marine structures & piling", "Harbor revetments & lock gates", "Heavy railway sleepers", "Bridges & industrial decking"],
+        "formsAvailable": "Round logs & heavy dimensioned beams",
+        "image": "/images/1453b-1.jpg"
+      },
+      {
+        "id": "tali",
+        "name": "Tali",
+        "scientificName": "Erythrophleum ivorense / suaveolens",
+        "tradeNames": "Eloun, Missanda, Alui",
+        "category": "Heavy Structural & Decking",
+        "density": "900 - 1,000 kg/m³ (Heavy)",
+        "durability": "Class 1 - Very Durable",
+        "color": "Yellow-orange to reddish-brown, darkening upon exposure",
+        "description": "A very hard, dense African timber used increasingly across Europe and Asia as a premier alternative to Azobé for outdoor decking, civil structures, and heavy construction.",
+        "uses": ["Outdoor decking & walkways", "Heavy civil works & sleepers", "Hydraulic works", "Industrial flooring"],
+        "formsAvailable": "Round logs, rough-sawn planks, and squared beams",
+        "image": "/images/bilinga 60x40.jpg"
+      },
+      {
+        "id": "sapelli",
+        "name": "Sapelli",
+        "scientificName": "Entandrophragma cylindricum",
+        "tradeNames": "Sapele, Sapelli Mahogany",
+        "category": "Joinery & Premium Furniture",
+        "density": "640 - 720 kg/m³ (Medium-Heavy)",
+        "durability": "Class 2 - Durable",
+        "color": "Medium reddish-brown with luminous ribbon stripe figure",
+        "description": "Prized globally as an exceptional African mahogany substitute. Features fine interlocked grain with distinctive ribbon figure, excellent workability, and rich warm luster.",
+        "uses": ["Architectural joinery & doors", "High-end furniture & cabinetry", "Boat building & luxury yacht interiors", "Veneer & flooring"],
+        "formsAvailable": "Kiln-dried & air-dried sawn timber, square logs",
+        "image": "/images/apelli 86x72.jpg"
+      },
+      {
+        "id": "padouk",
+        "name": "Padouk",
+        "scientificName": "Pterocarpus soyauxii",
+        "tradeNames": "African Padauk, Coralwood",
+        "category": "Decorative & Acoustic",
+        "density": "750 - 850 kg/m³ (Heavy)",
+        "durability": "Class 1 - Highly Durable",
+        "color": "Vivid coral orange-red when fresh, maturing to deep warm red",
+        "description": "A spectacular African timber celebrated for its bold coral red coloration, extraordinary dimensional stability, and natural resistance to fungi and termites.",
+        "uses": ["Luxury furniture & turning", "Decorative parquet & exterior flooring", "Musical instruments & knife handles", "Custom interior joinery"],
+        "formsAvailable": "Rough-sawn boards, dimensioned lumber, select logs",
+        "image": "/images/padouk 58x38.jpg"
+      },
+      {
+        "id": "ayous",
+        "name": "Ayous",
+        "scientificName": "Triplochiton scleroxylon",
+        "tradeNames": "Obeche, Wawa, Samba",
+        "category": "Lightweight Interior",
+        "density": "380 - 450 kg/m³ (Lightweight)",
+        "durability": "Class 5 - Low (Treated for use)",
+        "color": "Creamy white to pale yellow",
+        "description": "Soft, lightweight, and uniform hardwood. Easy to machine, mould, and thermally modify for sauna interiors, framing, and light building elements.",
+        "uses": ["Sauna slats & wall paneling", "Mouldings & picture frames", "Core stock & veneer", "Interior joinery"],
+        "formsAvailable": "Kiln-dried sawn boards & planed stock",
+        "image": "/images/1852a-1.jpg"
+      },
+      {
+        "id": "iroko",
+        "name": "Iroko",
+        "scientificName": "Milicia excelsa",
+        "tradeNames": "African Teak, Odum",
+        "category": "Exterior & Shipbuilding",
+        "density": "650 - 750 kg/m³ (Medium-Heavy)",
+        "durability": "Class 1-2 - Very Durable",
+        "color": "Golden yellow turning to rich bronze brown",
+        "description": "Often referred to as African Teak for its remarkable weather resistance, stability, and oily grain that repels moisture in demanding outdoor environments.",
+        "uses": ["Outdoor furniture & decking", "Boat decking & shipbuilding", "Sills, frames & stairs", "Cladding"],
+        "formsAvailable": "Sawn timber & selected logs",
+        "image": "/images/wood_products2.jpg"
+      }
+    ]
+  },
+  "products": {
+    "badge": "Product Forms",
+    "title": "Supplied in the Form Your Mill Requires",
+    "subtitle": "Whether you operate a breakdown mill, a secondary processing plant, or require ready-to-use structural dimensions, we prepare cargo according to verified purchasing specifications.",
+    "items": [
+      {
+        "id": "logs",
+        "title": "Hardwood Round Logs",
+        "badge": "Sawmill & Veneer Ready",
+        "description": "Freshly harvested round logs for buyers with their own milling, peeling, or slicing capacity. Measured, inspected, and quoted by species, diameter class (e.g. 60cm+, 80cm+), length, and export grade.",
+        "specs": ["Diameters: 60 cm to 120 cm+", "Lengths: 4.0 m to 11.5 m", "Grade: Export Sawlog / Veneer Grade", "Tracking: Individual barcoded forestry tags"],
+        "image": "/images/1453b-1.jpg"
+      },
+      {
+        "id": "rough-sawn",
+        "title": "Rough-Sawn Timber",
+        "badge": "Primary Processing",
+        "description": "Clean-sawn boards, planks, and squared beams sawn straight from the log without planing. Suited to further resawing, kiln drying, molding, and industrial construction.",
+        "specs": ["Thickness: 25mm, 38mm, 50mm, 75mm, 100mm+", "Width: 100mm to 300mm+", "Lengths: 2.1m to 5.5m+", "Condition: Fresh-cut (green) or Air-dried (AD)"],
+        "image": "/images/1852a-1.jpg"
+      },
+      {
+        "id": "dimensioned",
+        "title": "Dimensioned Sawn Timber",
+        "badge": "Precision Tolerance",
+        "description": "Sawn to exact contract thickness, width, and length tolerances for commercial contractors and importers who need immediate uniformity and fast jobsite installation upon arrival.",
+        "specs": ["Strict dimensional tolerances (±1mm)", "Bundled with heavy-duty steel strapping", "Edge protection & plastic end caps on request", "Kiln-dried (KD) options available on select species"],
+        "image": "/images/wood_products2.jpg"
+      }
+    ],
+    "availabilityNotice": {
+      "title": "Product Availability & Transparent Quotations",
+      "text": "Available volumes, moisture levels (Green, AD, or KD), and specific cutting schedules fluctuate with forest harvesting cycles. Our export team confirms physical log-yard inventory before issuing a firm Proforma Invoice.",
+      "cta": "Request Specific Dimensions"
+    }
+  },
+  "exportLogistics": {
+    "badge": "Logistics & Ports",
+    "title": "Reliable Cameroon Export Through Douala & Kribi",
+    "subtitle": "Shipping international timber requires rigorous logistics, maritime coordination, and flawless export documentation. We handle each stage with proven procedures.",
+    "ports": [
+      {
+        "name": "Port of Douala",
+        "type": "Cameroon Main Commercial Port",
+        "description": "Historically the principal gateway for Central African timber. Offers regular container carrier liner calls, established customs handling, and frequent departures to Europe, the Middle East, and Asia.",
+        "bestFor": "Standard 20ft / 40ft containerized shipments and regular monthly rotations."
+      },
+      {
+        "name": "Kribi Deep-Water Port",
+        "type": "Modern Deep-Sea Terminal",
+        "description": "Located directly on the Atlantic coastline south of Douala, Kribi accommodates large ocean-going dry bulk and container vessels without tidal limitations, expediting deep-draft departures.",
+        "bestFor": "Large volume contracts, deep-draft vessels, and direct ocean-liner routes."
+      }
+    ],
+    "documents": [
+      { "name": "Commercial Invoice & Detailed Packing List", "desc": "Itemized piece counts, dimensions, volume in cubic meters (m³), and net weights." },
+      { "name": "Official Phytosanitary Certificate", "desc": "Issued by Cameroon Ministry of Agriculture confirming quarantine inspection." },
+      { "name": "Certificate of Origin (Chamber of Commerce)", "desc": "Official proof of Cameroon origin for customs clearance in destination port." },
+      { "name": "Clean On-Board Ocean Bill of Lading (B/L)", "desc": "Surrendered or 3/3 Original Ocean B/L with specified cargo release terms." },
+      { "name": "Forestry Exploitation & Transport Waybills", "desc": "Full legal chain-of-custody documentation under Cameroon forestry regulation." },
+      { "name": "Independent Survey / SGS Inspection (Optional)", "desc": "Third-party quality and volume verification available upon buyer request." }
+    ]
+  },
+  "sourcing": {
+    "badge": "Responsible Sourcing",
+    "title": "Committed to Legal, Traceable Cameroon Forestry",
+    "subtitle": "Every cubic meter we supply comes from designated, state-authorized forestry concessions adhering to Cameroon's forestry code and sustainable harvest quotas.",
+    "pillars": [
+      {
+        "title": "100% Legal Concessions",
+        "desc": "Sourced exclusively from legal Unités Forestières d'Aménagement (UFAs) and authorized community forests with active administrative cutting permits."
+      },
+      {
+        "title": "Chain-of-Custody Tracking",
+        "desc": "Each log is physically tagged with forestry barcode numbers from stump to port, ensuring zero unverified timber enters our export pipeline."
+      },
+      {
+        "title": "Congo Basin Stewardship",
+        "desc": "Compliance with national minimum harvest diameters to protect natural regeneration and preserve biodiversity in the Congo Basin."
+      },
+      {
+        "title": "Open Buyer Verification",
+        "desc": "We welcome full audit of shipping documentation, concession origins, and pre-shipment yard inspections by buyer representatives."
+      }
+    ]
+  },
+  "about": {
+    "badge": "Who We Are",
+    "title": "A Cameroon Timber Supplier Built for International Importers",
+    "paragraph1": "Prime Wood Global is a registered Cameroon timber supplier and export specialist operating out of Douala and Kribi. We bridge the gap between rich Central African forest resources and commercial importers across Europe, Asia, the Middle East, and the Americas.",
+    "paragraph2": "Unlike brokers who quote phantom inventory, we build our reputation on verified availability, clear communication, and strict adherence to agreed timber specifications, moisture conditions, and delivery schedules.",
+    "values": [
+      { "label": "Verified Inventory", "text": "We quote only what is physically measured in log yards and sawmills." },
+      { "label": "Strict Grading", "text": "Experienced timber graders evaluate every piece before container loading." },
+      { "label": "Document Accuracy", "text": "Flawless customs, forestry, and maritime shipping documentation." },
+      { "label": "Direct Communication", "text": "Real-time updates via WhatsApp with actual photos and yard inspection videos." }
+    ]
+  },
+  "faq": {
+    "badge": "Buyer FAQ",
+    "title": "Straight Answers for Purchasing Managers & Importers",
+    "subtitle": "Clear, practical answers about our Cameroon hardwood species, volumes, dimensions, shipping routes, and export documentation.",
+    "categories": {
+      "all": "All Questions",
+      "species": "Species & Products",
+      "orders": "Orders & Volumes",
+      "shipping": "Shipping & Ports",
+      "docs": "Documentation & Terms"
+    },
+    "questions": [
+      {
+        "id": "1",
+        "category": "species",
+        "question": "What timber species do you supply from Cameroon?",
+        "answer": "Our primary export focus is on Azobé (Lophira alata), Tali (Erythrophleum ivorense), Sapelli (Entandrophragma cylindricum), and Padouk (Pterocarpus soyauxii). In addition, we regularly supply Ayous (Obeche), Iroko, Bilinga, Sipo, and Doussié upon request. If you require another Cameroon species, contact our export desk and we will confirm current availability."
+      },
+      {
+        "id": "2",
+        "category": "species",
+        "question": "Do you supply Azobé logs and heavy sawn beams?",
+        "answer": "Yes. Azobé can be supplied both as round sawlogs and as heavy rough-sawn structural beams (e.g. for marine piling, bridge construction, and harbor works). Because export rules and quota restrictions on specific log classes can vary, we confirm current log export authorization at the time of your inquiry."
+      },
+      {
+        "id": "3",
+        "category": "species",
+        "question": "Do you supply sawn Sapelli in specific thicknesses?",
+        "answer": "Yes. Sawn Sapelli is one of our flagship products. We supply standard export thicknesses including 25mm, 32mm, 38mm, 50mm, 63mm, 75mm, and 100mm, in mixed or selected widths (100mm - 300mm+) and lengths (2.1m - 5.5m+). We provide both fresh-cut (green) and air-dried (AD) stock, as well as kiln-dried (KD 12-14%) upon contractual agreement."
+      },
+      {
+        "id": "4",
+        "category": "species",
+        "question": "Can I purchase Tali in commercial bulk volumes?",
+        "answer": "Yes. Tali is widely requested by civil contractors and decking importers in Europe and Asia. We can quote multi-container monthly supply contracts as well as spot container loads, with volumes validated against our operational cutting schedule."
+      },
+      {
+        "id": "5",
+        "category": "species",
+        "question": "Do you supply Padouk?",
+        "answer": "Yes, Padouk is quoted primarily as sawn timber and select decorative square logs. Sawn Padouk is prized for its intense red-coral hue and high dimensional stability. Please specify your target dimensions and any color grading criteria when submitting your inquiry."
+      },
+      {
+        "id": "6",
+        "category": "orders",
+        "question": "What is your Minimum Order Quantity (MOQ)?",
+        "answer": "Our standard minimum order is one 20ft container load (FCL), which typically holds between 18 and 23 m³ of dense hardwood sawn timber or equivalent log volume, depending on vessel weight limits and species density. For large projects, we handle multi-container and break-bulk charter shipments."
+      },
+      {
+        "id": "7",
+        "category": "orders",
+        "question": "How are timber volumes calculated and verified?",
+        "answer": "For sawn timber, volume is calculated as Net Metric Volume: Thickness (m) × Width (m) × Length (m) per individual piece, aggregated to three decimal places in cubic meters (m³). For round logs, volumes are measured according to standard forestry formula (Hoppus or Smalian based on agreed mid-point / end diameter and length under bark), listed piece-by-piece on the official packing list."
+      },
+      {
+        "id": "8",
+        "category": "orders",
+        "question": "Can I request photographs and inspection videos before shipment?",
+        "answer": "Absolutely. We encourage all buyers to review high-resolution photographs and video footage of representative stock during tallying, strapping, and container stuffing. You are also welcome to appoint an independent inspection agency (e.g. SGS, Bureau Veritas) or visit our yard in Cameroon prior to departure."
+      },
+      {
+        "id": "9",
+        "category": "shipping",
+        "question": "Where does the timber ship from in Cameroon?",
+        "answer": "All international shipments originate in Cameroon and depart through either the Port of Douala or the Kribi Deep-Water Port, depending on vessel availability, shipping line routing, and cargo configuration."
+      },
+      {
+        "id": "10",
+        "category": "shipping",
+        "question": "Do you export through Douala or Kribi?",
+        "answer": "We utilize both ports strategically. Douala handles steady containerized traffic to all major global transshipment hubs. Kribi's deep-water terminal accommodates large-draft vessels and direct container services, significantly reducing transit time for large cargo."
+      },
+      {
+        "id": "11",
+        "category": "shipping",
+        "question": "Can Prime Wood Global arrange ocean freight?",
+        "answer": "Yes. We can quote on FOB (Douala or Kribi) or CFR / CIF to your discharge port of choice. We work directly with major ocean carriers (CMA CGM, Maersk, MSC, Hapag-Lloyd) to secure competitive maritime freight rates."
+      },
+      {
+        "id": "12",
+        "category": "shipping",
+        "question": "How long does export processing and shipping take?",
+        "answer": "For existing yard stock, preparation, customs clearance, and phytosanitary processing take approximately 2 to 3 weeks before vessel loading. Ocean transit time depends on destination: typically 20-30 days to Mediterranean & North European ports, and 30-45 days to Asian ports."
+      },
+      {
+        "id": "13",
+        "category": "shipping",
+        "question": "How is the timber packaged and secured for sea transit?",
+        "answer": "Sawn timber is neatly bundled by dimension and length, tightly secured with heavy-duty anti-rust steel straps, and fitted with timber dunnage for forklift handling. Bundles are marked with weather-resistant paint and tags identifying species, dimensions, and bundle numbers."
+      },
+      {
+        "id": "14",
+        "category": "docs",
+        "question": "What export documentation is provided with shipments?",
+        "answer": "Every export shipment includes a full documentary set: Commercial Invoice, Detailed Packing List & Tally Sheet, Official Phytosanitary Certificate from the Ministry of Agriculture, Certificate of Origin from the Cameroon Chamber of Commerce, and Ocean Bill of Lading (B/L). Sourcing and forestry compliance waybills are also supplied."
+      },
+      {
+        "id": "15",
+        "category": "docs",
+        "question": "What information should I include in my quotation request?",
+        "answer": "To receive a fast, accurate Proforma Invoice, please provide: (1) Timber species, (2) Product format (Logs, Rough-sawn, Dimensioned), (3) Dimensions (thickness × width × length), (4) Total volume (m³ or number of containers), (5) Moisture condition (Fresh, AD, or KD), (6) Destination country and discharge port, and (7) Preferred delivery incoterm (FOB or CIF)."
+      },
+      {
+        "id": "16",
+        "category": "docs",
+        "question": "What payment terms are accepted for export orders?",
+        "answer": "We typically operate under international trade standards: Irrevocable Letter of Credit (L/C at sight) from a recognized prime international bank, or Telegraphic Transfer (T/T with deposit against order confirmation and balance against copy of shipping documents and Bill of Lading)."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Start Your Order",
+    "title": "Looking for High-Grade Cameroon Hardwood?",
+    "subtitle": "Tell us the species, dimensions, volume, and destination port you require. Our export team responds within 24 hours with current yard availability and pricing.",
+    "quoteBtn": "Request an Export Quote",
+    "whatsappBtn": "Chat on WhatsApp (+237 6 74 42 98 93)",
+    "emailBtn": "Send Direct Email",
+    "responseTime": "Average response time: under 2 hours during business hours."
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Contact Prime Wood Global Export Team",
+    "subtitle": "Our export managers in Douala and Kribi are available to answer your technical questions, provide timber specifications, and prepare formal commercial quotes.",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "e.g. John Doe / Procurement Manager",
+      "emailLabel": "Work Email",
+      "emailPlaceholder": "name@company.com",
+      "phoneLabel": "Phone / WhatsApp",
+      "phonePlaceholder": "+44 7911 123456",
+      "companyLabel": "Company Name",
+      "companyPlaceholder": "Your Company Ltd",
+      "speciesLabel": "Primary Timber Species",
+      "speciesPlaceholder": "Select species (Azobé, Tali, Sapelli, Padouk...)",
+      "volumeLabel": "Target Volume / Containers",
+      "volumePlaceholder": "e.g. 2 x 40ft containers (approx. 45 m³)",
+      "destinationLabel": "Destination Port & Country",
+      "destinationPlaceholder": "e.g. Port of Rotterdam, Netherlands",
+      "messageLabel": "Specifications & Order Details",
+      "messagePlaceholder": "Please describe your required dimensions (thickness x width x length), moisture condition (Green, AD, KD), target delivery date...",
+      "submitBtn": "Submit Quotation Request",
+      "successTitle": "Inquiry Received Successfully",
+      "successMessage": "Thank you. Our commercial export team is reviewing your requirements and will contact you via email/WhatsApp shortly."
+    }
+  },
+  "footer": {
+    "aboutPWG": "Prime Wood Global is a registered Cameroon hardwood timber supplier and exporter. We deliver Azobé, Tali, Sapelli, Padouk, and premium African hardwoods to international commercial buyers worldwide through Douala and Kribi ports.",
+    "speciesTitle": "Featured Species",
+    "productsTitle": "Export Products",
+    "companyTitle": "Company & Legal",
+    "portsTitle": "Shipping Gateways",
+    "copyright": "All rights reserved. Registered Cameroon Timber Supplier & Exporter.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Sale & Supply",
+    "compliance": "Forestry Compliance"
+  }
+}
