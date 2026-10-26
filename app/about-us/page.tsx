@@ -50,7 +50,7 @@ export default function AboutUsPage() {
             </h1>
 
             <p className="text-lg sm:text-xl text-white/90 leading-relaxed mb-8 max-w-3xl">
-              Direct timber supply from Cameroon's Congo Basin to international importers—with verified inventory, strict grading, and flawless documentation.
+              Direct timber supply from Cameroon's Congo Basin to international importers with verified inventory, strict grading, and flawless documentation.
             </p>
 
             <div className="flex flex-wrap gap-4">
@@ -80,7 +80,7 @@ export default function AboutUsPage() {
             <div className="order-2 lg:order-1">
               <div className="relative rounded-2xl overflow-hidden border border-[#e4e2d8] shadow-xl aspect-[4/3] bg-slate-900 group">
                 <Image
-                  src="/images/wood_products2.jpg"
+                  src="/images/logs.jpg"
                   alt="Prime Wood Global operations in Cameroon"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-700"
@@ -113,7 +113,7 @@ export default function AboutUsPage() {
                   <div>
                     <h4 className="font-bold text-[#032f0e] mb-2">Global Reach, Local Expertise</h4>
                     <p className="text-sm text-slate-700">
-                      From Cameroon's forests to your facility, we manage every step—sourcing, processing, documentation, and maritime logistics—ensuring your timber arrives on time, as specified.
+                      From Cameroon's forests to your facility, we manage every step sourcing, processing, documentation, and maritime logistics ensuring your timber arrives on time, as specified.
                     </p>
                   </div>
                 </div>
