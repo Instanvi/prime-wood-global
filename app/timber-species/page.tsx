@@ -311,6 +311,276 @@ const speciesData: SpeciesItem[] = [
     buyerConsiderations:
       "Specify moisture condition (Kiln-Dried 12–14% for interior use; Air-Dried or Fresh-Cut acceptable for exterior decking if client will air-season on site). For premium decking projects, request smooth four-sides planed (S4S) or specify anti-slip groove profiling. Confirm acceptable defect levels (FAS export grade vs Select & Better). State whether 100% heartwood (FOHC) or boxed-heart permissible.",
   },
+  {
+    id: "wenge",
+    name: "Wengé",
+    scientificName: "Millettia laurentii",
+    tradeNames: "Wenge · Panga Panga · Awong",
+    category: "Decorative & Flooring",
+    tagline:
+      "One of the darkest and most striking African hardwoods, famous for its dramatic nearly-black color with fine light streaks, exceptional hardness, and supreme wear resistance for high-traffic flooring and luxury furniture.",
+    densityBadge: "850 - 920 kg/m³",
+    durabilityBadge: "Class 1 · Very Durable",
+    swatchBg: "#1a1410",
+    swatchGradient: "from-[#2b1f16] via-[#1a1410] to-[#0d0906]",
+    realImage: "/images/wood_products2.jpg",
+    generalCharacteristics:
+      "Wengé is one of the most visually distinctive commercial African hardwoods, celebrated internationally for its deep chocolate-brown to nearly black heartwood dramatically contrasted by fine golden-tan parenchyma lines. Its exceptional density, hardness (Janka ~1,930 lbf), and wear resistance make it a premier choice for high-end architectural flooring and statement furniture pieces.",
+    appearance:
+      "Heartwood ranges from medium chocolate-brown to very dark brown, almost black, with striking fine, closely-spaced yellowish-tan to golden parenchyma lines creating a distinctive linear pattern. Sapwood is narrow, pale yellowish-white, sharply demarcated. Grain is straight to slightly interlocked with a coarse, open texture.",
+    density:
+      "Air-dry density is 850 to 920 kg/m³ at 12% moisture content. Very heavy and extremely hard with outstanding resistance to impact, wear, and mechanical indentation. Container payloads typically 20–22 m³ per 20ft container due to weight constraints.",
+    durability:
+      "Class 1 (Very Durable). Excellent natural resistance to fungal decay, termites, and dry-wood borers. Performs exceptionally well in interior applications and moderate exterior exposure when properly sealed. Not recommended for permanent ground contact or marine applications.",
+    typicalApplications:
+      "High-traffic commercial and residential flooring, luxury furniture, cabinetry, decorative veneers, turned objects, musical instruments (fingerboards, bridges), knife and tool handles, architectural accents, and contrasting inlays.",
+    sawnTimberConsiderations:
+      "Moderately difficult to work due to high density and coarse texture. Carbide tooling recommended to minimize blunting. Can cause splinters when handling; coarse grain may tear out during planing if cutters are not razor-sharp. Pre-drilling required for nails and screws. Glues, stains, and finishes satisfactorily with proper surface preparation. Dust may cause skin and respiratory irritation; use proper extraction.",
+    logSupplyConsiderations:
+      "Straight cylindrical logs typically 60cm to 90cm diameter with minimal sapwood. Good lumber recovery with consistent dark color. Supply can be limited compared to high-volume commercial species; confirm availability and lead times before large orders.",
+    buyerConsiderations:
+      "Specify kiln-dried (KD 8–10%) for flooring and interior millwork to ensure dimensional stability. For flooring, request defect-free FAS grade with uniform color. State acceptable sapwood content (typically excluded for premium applications). Wengé dust is a known irritant; ensure factory processing facilities have adequate dust extraction systems.",
+  },
+  {
+    id: "okan",
+    name: "Okan",
+    scientificName: "Cylicodiscus gabunensis",
+    tradeNames: "Denya · Bongossi Yellow · African Greenheart",
+    category: "Heavy Marine & Civil",
+    tagline:
+      "An exceptionally dense and durable West African hardwood renowned for its bright golden-yellow color and outstanding resistance to marine borers, fungal decay, and extreme environmental conditions in heavy hydraulic and coastal construction.",
+    densityBadge: "850 - 950 kg/m³",
+    durabilityBadge: "Class 1 · Very Durable",
+    swatchBg: "#c49b3c",
+    swatchGradient: "from-[#d4ab4e] via-[#b88a34] to-[#9c7128]",
+    realImage: "/images/wood_products.jpg",
+    generalCharacteristics:
+      "Okan is a premium heavy construction timber prized for its exceptional natural durability and mechanical strength (comparable to D40 strength class EN 338). Often called African Greenheart due to performance similarities to true Greenheart, Okan excels in the most demanding marine, hydraulic, and civil engineering applications where long service life under extreme exposure is paramount.",
+    appearance:
+      "Freshly sawn heartwood displays a bright golden-yellow to orange-yellow color, darkening gradually with atmospheric exposure to a rich golden-brown. Sapwood is narrow, pale cream-yellow, clearly differentiated. Grain is interlocked, often irregular, with a coarse texture and moderate natural luster.",
+    density:
+      "Air-dry density is 850 to 950 kg/m³ at 12% moisture content (green density 1,000 to 1,200 kg/m³). Extremely heavy and dense with superior load-bearing capacity. Container weight limits typically reached before volumetric capacity; expect 19–22 m³ per 20ft container.",
+    durability:
+      "Class 1 (Very Durable). Outstanding natural resistance to wood-rotting fungi, termites, dry-wood borers, and marine borers including teredo in tropical coastal waters. Exceptional performance in permanent ground contact, freshwater immersion, and seawater exposure without chemical treatment. Proven service life exceeding 30+ years in marine structures.",
+    typicalApplications:
+      "Marine piling, dock structures, jetty fender systems, coastal lock gates, heavy bridge construction, railway sleepers, hydraulic engineering, heavy-duty decking, crane outrigger mats, coastal boardwalks, and industrial marine fittings.",
+    sawnTimberConsiderations:
+      "Very difficult to saw and machine due to extreme density and irregular interlocked grain. Requires carbide or stellite-tipped tooling; expect rapid blunting. Reduced feed rates and sharp cutters essential. Pre-drilling mandatory for all fasteners. Dries slowly; controlled air-seasoning under cover essential to prevent severe surface checking and end splitting. Glues satisfactorily with epoxy-based adhesives.",
+    logSupplyConsiderations:
+      "Large, straight cylindrical logs typically 60cm to 100cm+ diameter. Heavy logs require specialized loading equipment and handling procedures. High recovery yields of long, clean structural timbers. Confirm port loading capacity and container weight restrictions before ordering.",
+    buyerConsiderations:
+      "Specify moisture condition (Air-Dried acceptable for marine/civil work; Kiln-Dried 12–14% for precision architectural applications). For marine piling and structural work, state required section dimensions, length specifications (typically 4m to 12m), and confirm grading criteria (e.g., D40 strength class EN 338). Verify phytosanitary certification requirements for destination market.",
+  },
+  {
+    id: "moabi",
+    name: "Moabi",
+    scientificName: "Baillonella toxisperma",
+    tradeNames: "Njabi · Djave · Muamba",
+    category: "Heavy Marine & Civil",
+    tagline:
+      "A majestic, extremely dense Central African hardwood celebrated for its rich chocolate-red color, exceptional durability, and supreme resistance to marine borers, making it a premier choice for heavy structural engineering and luxury yacht construction.",
+    densityBadge: "850 - 1,000 kg/m³",
+    durabilityBadge: "Class 1 · Very Durable",
+    swatchBg: "#5c2d1a",
+    swatchGradient: "from-[#6e3620] via-[#522614] to-[#3d1a0d]",
+    realImage: "/images/wood_products.jpg",
+    generalCharacteristics:
+      "Moabi is one of Central Africa's most prestigious heavy construction timbers, sourced from massive forest giants that can live for centuries. It combines exceptional density (Janka hardness ~2,270 lbf), outstanding dimensional stability, and proven long-term durability in the harshest marine and civil engineering environments. Increasingly specified for luxury yacht decking and high-end structural projects.",
+    appearance:
+      "Heartwood is a rich, warm reddish-brown to deep chocolate-brown with subtle pinkish undertones, darkening to a lustrous deep mahogany patina with age and UV exposure. Sapwood is narrow, pale pinkish-yellow, clearly demarcated. Grain is typically interlocked, occasionally wavy, with a medium to coarse texture and high natural luster.",
+    density:
+      "Air-dry density is 850 to 1,000 kg/m³ at 12% moisture content (green density approaches 1,100 kg/m³). Very heavy and extremely hard with superior compressive and bending strength. Container shipments average 19–22 m³ per 20ft container due to weight limitations.",
+    durability:
+      "Class 1 (Very Durable). Exceptional natural resistance to wood-destroying fungi, termites, and marine borers. Rarely attacked by marine teredo in tropical coastal waters. Outstanding performance in permanent ground contact, freshwater and saltwater immersion, and severe outdoor exposure without preservative treatment.",
+    typicalApplications:
+      "Luxury yacht decking and marine trim, heavy marine piling, dock structures, coastal bridge construction, hydraulic lock gates, railway sleepers, heavy-duty industrial flooring, exterior cladding, luxury furniture, architectural millwork, and decorative veneers.",
+    sawnTimberConsiderations:
+      "Moderately difficult to saw and machine due to high density and interlocked grain. Carbide tooling recommended for extended tool life. High silica content (similar to Teak) can rapidly dull conventional high-speed steel cutters. Machines to a beautiful smooth finish with sharp cutters. Pre-drilling required for screws and nails. Dries slowly; controlled kiln-drying or careful air-seasoning under cover essential. Excellent dimensional stability once seasoned. Glues, finishes, and oils superbly.",
+    logSupplyConsiderations:
+      "Very large cylindrical logs often 80cm to 150cm+ diameter sourced from mature old-growth trees. Exceptional lumber recovery with wide, clear, defect-free boards. Logs are extremely heavy; specialized port handling equipment required. Supply is more limited than high-volume species; confirm availability and lead times.",
+    buyerConsiderations:
+      "Specify moisture requirement (Kiln-Dried 10–12% for yacht decking and precision millwork; Air-Dried acceptable for heavy construction). For yacht decking, request FAS export grade, smooth four-sides planed (S4S), with optional anti-slip grooving. State acceptable sapwood content (typically excluded for premium marine applications). Confirm phytosanitary certification and CITES compliance for your destination market.",
+  },
+  {
+    id: "bubinga",
+    name: "Bubinga",
+    scientificName: "Guibourtia spp.",
+    tradeNames: "African Rosewood · Kevazingo · Essingang",
+    category: "Joinery & Cabinetry",
+    tagline:
+      "An elite African hardwood prized globally for its spectacular reddish-purple heartwood with dramatic darker veining, exceptional density, and stunning figured grain perfect for high-end furniture, decorative veneers, and musical instruments.",
+    densityBadge: "850 - 950 kg/m³",
+    durabilityBadge: "Class 1-2 · Very Durable",
+    swatchBg: "#6e2c2c",
+    swatchGradient: "from-[#7d3535] via-[#5f2424] to-[#481717]",
+    realImage: "/images/wood_products2.jpg",
+    generalCharacteristics:
+      "Bubinga is among Africa's most prestigious decorative hardwoods, celebrated internationally for its breathtaking reddish-brown to deep purple-red heartwood dramatically enhanced by dark purple to nearly black streaks. When rotary-cut or quarter-sawn, it reveals spectacular ribbon-stripe, mottled, or waterfall figure patterns. Its combination of visual drama, exceptional hardness (Janka ~2,410 lbf), and superior stability makes it the ultimate choice for statement furniture and architectural showcases.",
+    appearance:
+      "Heartwood ranges from medium pink-brown to rich reddish-purple with conspicuous darker purple to nearly black veining and streaks. Color deepens and enriches with age and light exposure. Quarter-sawn surfaces reveal spectacular ribbon-stripe or waterfall figure. Grain is interlocked, occasionally wavy, with a medium texture and high natural luster that polishes to a glass-like finish.",
+    density:
+      "Air-dry density is 850 to 950 kg/m³ at 12% moisture content. Very heavy and extremely hard with excellent dimensional stability once properly seasoned. Container payloads average 20–23 m³ per 20ft container due to weight density.",
+    durability:
+      "Class 1–2 (Very Durable to Durable). Good natural resistance to fungal decay and termites. Some resistance to marine borers but vulnerable to common furniture beetle in sapwood. Heartwood is moderately resistant to preservative treatment. Performs exceptionally in interior applications and satisfactorily in protected exterior use.",
+    typicalApplications:
+      "High-end furniture and cabinetry, luxury decorative veneers, architectural paneling, turned objects, musical instruments (guitars, drums, xylophone bars), knife and gun handles, luxury yacht interiors, executive desks, and contrasting inlays.",
+    sawnTimberConsiderations:
+      "Moderately difficult to work with hand and machine tools due to high density and interlocked grain. Carbide tooling recommended for extended tool life. Figured wood prone to tearout during planing; reduced cutting angle (15°–20°) and razor-sharp cutters essential. Pre-drilling required for nails and screws. Turns, glues, and finishes beautifully. Takes a spectacular high-gloss polish. Dust may cause mild skin irritation; use proper extraction.",
+    logSupplyConsiderations:
+      "Large cylindrical logs typically 60cm to 120cm+ diameter with minimal sapwood. Figured logs command premium prices. High recovery yields of wide, long boards with spectacular color and figure continuity. Supply of premium figured material can be limited; confirm availability for large figured veneer projects.",
+    buyerConsiderations:
+      "Specify grade (FAS export grade for premium furniture; figured or plain-sawn for specific aesthetic requirements). State moisture requirement (Kiln-Dried 8–10% for interior furniture and millwork essential for dimensional stability). For decorative veneer projects, request rotary-cut or quarter-sawn specification and provide color/figure samples for matching. Confirm acceptable sapwood content (typically excluded for premium applications).",
+  },
+  {
+    id: "movingui",
+    name: "Movingui",
+    scientificName: "Distemonanthus benthamianus",
+    tradeNames: "Ayan · Nigerian Satinwood · Distemonanthus",
+    category: "Joinery & Cabinetry",
+    tagline:
+      "A bright golden-yellow African hardwood celebrated for its uniform color, excellent dimensional stability, moderate hardness, and natural durability, making it an ideal versatile timber for joinery, flooring, and marine applications.",
+    densityBadge: "700 - 750 kg/m³",
+    durabilityBadge: "Class 2 · Durable",
+    swatchBg: "#d4a846",
+    swatchGradient: "from-[#ddb658] via-[#c89838] to-[#ad7f2a]",
+    realImage: "/images/wood_products.jpg",
+    generalCharacteristics:
+      "Movingui is a versatile West and Central African hardwood valued for its bright, uniform golden-yellow color, moderate density (Janka ~1,280 lbf), and outstanding dimensional stability. Often specified as a cost-effective alternative to Iroko, it offers excellent natural durability combined with superior workability and aesthetic appeal for a wide range of architectural and marine applications.",
+    appearance:
+      "Heartwood is a uniform bright golden-yellow to light yellow-brown, darkening slightly to a warm honey-yellow with atmospheric exposure. Sapwood is narrow, pale cream-yellow, not always clearly distinguished. Grain is typically interlocked, producing a subtle ribbon figure on quarter-sawn surfaces. Texture is medium to coarse with moderate natural luster.",
+    density:
+      "Air-dry density is 700 to 750 kg/m³ at 12% moisture content. Medium-weight with good mechanical strength and excellent dimensional stability. Container payloads average 24–27 m³ per 20ft container. Optimal balance between structural strength and ease of handling.",
+    durability:
+      "Class 2 (Durable). Good natural resistance to fungal decay, termites, and dry-wood borers. Performs well in exterior joinery when properly sealed and in marine applications in temperate waters. Not recommended for permanent ground contact or tropical marine immersion.",
+    typicalApplications:
+      "Exterior joinery, window frames, door frames, interior and exterior flooring, boat building (planking and decking), cabinetry, furniture, staircases, turned objects, decorative veneers, and architectural millwork. Increasingly popular for thermal modification (TMT Movingui) for enhanced exterior cladding durability.",
+    sawnTimberConsiderations:
+      "Generally easy to work with hand and machine tools despite moderate density. Saws and planes cleanly with conventional high-speed tooling. Contains up to 1.3% silica content by weight; carbide tooling recommended for extended production runs. Glues, screws, nails, stains, and finishes satisfactorily. Kiln-dries well with minimal degrade. Excellent dimensional stability once seasoned.",
+    logSupplyConsiderations:
+      "Large, straight cylindrical logs typically 70cm to 110cm+ diameter with minimal sapwood. High lumber recovery yields with consistent color and minimal defects. Readily available in commercial volumes from multiple Central African sources.",
+    buyerConsiderations:
+      "Specify moisture requirement (Kiln-Dried 10–12% for interior joinery and flooring; Air-Dried acceptable for exterior applications with on-site seasoning). State grade (FAS export grade vs Select & Better) and acceptable defect levels. For marine or exterior applications, confirm whether thermally modified (TMT) specification is required for enhanced durability. For flooring projects, specify tongue-and-groove profiling or smooth four-sides planed (S4S).",
+  },
+  {
+    id: "sipo",
+    name: "Sipo",
+    scientificName: "Entandrophragma utile",
+    tradeNames: "Utile · Sipo Mahogany · Assié",
+    category: "Joinery & Cabinetry",
+    tagline:
+      "A premium African mahogany species renowned for its uniform rich red-brown color, superior density and stability compared to Genuine Mahogany, and excellent natural durability for exterior joinery and luxury furniture.",
+    densityBadge: "640 - 680 kg/m³",
+    durabilityBadge: "Class 2 · Durable",
+    swatchBg: "#6b2f1a",
+    swatchGradient: "from-[#7d3820] via-[#5f2716] to-[#47190e]",
+    realImage: "/images/wood_products2.jpg",
+    generalCharacteristics:
+      "Sipo is one of Africa's premier mahogany-type timbers, increasingly specified as a superior alternative to Genuine Mahogany (Swietenia macrophylla). It offers a uniform reddish-brown color without the color variation common in other African mahoganies, higher density (Janka ~1,240 lbf), excellent dimensional stability, and superior natural durability. Sipo is the professional's choice for high-end exterior joinery, yacht construction, and executive furniture.",
+    appearance:
+      "Heartwood is a uniform medium to deep reddish-brown with warm coppery undertones, darkening slightly with age to a rich mahogany patina. Sapwood is narrow, pale pinkish-brown, clearly demarcated. Grain is typically straight to slightly interlocked, producing a more subtle figure than Sapelli. Texture is medium with a natural satin luster that polishes beautifully.",
+    density:
+      "Air-dry density is 640 to 680 kg/m³ at 12% moisture content. Medium-weight with excellent strength-to-weight ratio and superior dimensional stability. Container payloads average 24–27 m³ per 20ft container. Denser and more stable than Genuine Mahogany.",
+    durability:
+      "Class 2 (Durable to Moderately Durable). Good natural resistance to fungal decay and moderate insect resistance. Performs very well in exterior joinery when properly sealed and finished. Suitable for protected exterior applications but not recommended for permanent ground contact or marine immersion.",
+    typicalApplications:
+      "Exterior doors, window frames, luxury yacht cabinetry and trim, boat building, high-end furniture, architectural millwork, staircases, interior and exterior flooring, decorative veneers, musical instruments (acoustic guitars), and executive office furniture.",
+    sawnTimberConsiderations:
+      "Generally easy to work with hand and machine tools. Saws, planes, and molds cleanly with conventional high-speed steel tooling. Straight grain works easily; interlocked grain may cause slight tearout if cutters are not sharp. Pre-drilling recommended for hardwood screws near edges. Glues, stains, and finishes exceptionally well. Kiln-dries relatively easily with minimal degrade; excellent dimensional stability once seasoned.",
+    logSupplyConsiderations:
+      "Very large cylindrical logs often 80cm to 140cm+ diameter with minimal sapwood. Exceptional lumber recovery with wide, long, clear boards and excellent color uniformity. Readily available in commercial volumes from Cameroon, Congo Basin, and West African sources.",
+    buyerConsiderations:
+      "Specify moisture requirement (Kiln-Dried 10–12% for interior millwork and furniture; 12–14% for exterior joinery). State grade (FAS export grade for premium applications vs Select & Better for general joinery). For yacht building and marine trim, request 100% heartwood specification (FOHC) and confirm acceptable defect levels. For flooring, specify smooth four-sides planed (S4S) or tongue-and-groove profiling.",
+  },
+  {
+    id: "frake",
+    name: "Fraké",
+    scientificName: "Terminalia superba",
+    tradeNames: "Limba · Afara · Korina",
+    category: "Lightweight & Thermal",
+    tagline:
+      "A pale, lightweight African hardwood celebrated for its uniform cream-to-golden color, excellent workability, and outstanding stability, making it ideal for interior joinery, mouldings, and as a popular choice for thermally modified exterior cladding.",
+    densityBadge: "520 - 560 kg/m³",
+    durabilityBadge: "Class 4-5 · Low / Class 1-2 TMT",
+    swatchBg: "#d4c5a0",
+    swatchGradient: "from-[#dfd0b0] via-[#c9ba90] to-[#b0a074]",
+    realImage: "/images/wood_products.jpg",
+    generalCharacteristics:
+      "Fraké (also widely known as Limba) is one of Central Africa's most versatile lightweight hardwoods. Its pale, uniform color, low density, excellent dimensional stability, and superior workability make it the material of choice for interior architectural mouldings, door frames, and core stock. When thermally modified (TMT Fraké/Korina), it transforms into a durable, dimensionally stable exterior cladding material with enhanced Class 1–2 durability.",
+    appearance:
+      "Heartwood ranges from pale cream-white to light golden-yellow, with occasional greyish streaks. Sapwood is not clearly distinguished. Color is generally uniform with a subtle natural luster. Grain is interlocked, producing a subtle stripe figure on quarter-sawn surfaces. Texture is medium and even.",
+    density:
+      "Air-dry density is 520 to 560 kg/m³ at 12% moisture content. Lightweight yet structurally stable with moderate mechanical strength. Container shipments achieve excellent volumetric efficiency (~30–35 m³ per 40ft HC container within standard gross weight allowances).",
+    durability:
+      "Natural Durability Class 4–5 (Low durability; not durable in untreated exterior conditions). Susceptible to insect attack (beetles, termites) and fungal decay in raw state. Extensively thermally modified (TMT Fraké/Korina) to achieve Class 1–2 durability for luxury exterior cladding and facades with exceptional dimensional stability and rich golden-brown color.",
+    typicalApplications:
+      "Interior mouldings, architraves, door frames, window frames, lightweight furniture, cabinetry core stock, blockboard and plywood core veneers, musical instruments (acoustic guitar bodies), turned objects, and TMT Fraké for premium exterior cladding and architectural facades.",
+    sawnTimberConsiderations:
+      "Extremely easy to saw, plane, mold, shape, and finish with hand and machine tools. Minimal blunting effect on cutters. Glues, screws, and nails without splitting. Kiln-dries rapidly with minimal degrade. Fresh logs must be converted and dried swiftly or treated with anti-stain dip to prevent blue stain fungal discoloration during tropical storage and transit.",
+    logSupplyConsiderations:
+      "Very large, straight cylindrical logs often 80cm to 150cm+ diameter. Exceptional lumber recovery with high percentages of clear, wide, long boards. Minimal sapwood waste due to uniform color throughout. Readily available in commercial volumes from multiple Central African sources.",
+    buyerConsiderations:
+      "Specify moisture requirement (Kiln-Dried 8–10% for interior mouldings and millwork essential for dimensional stability; green or air-dried acceptable for prompt European thermal modification). For TMT applications, confirm thermal modification specification (Class 1 or Class 2 target durability). State grade (FAS for clear mouldings vs #1 Common for paint-grade applications). Confirm anti-stain treatment if ordering green or air-dried lumber for stock holding.",
+  },
+  {
+    id: "kosipo",
+    name: "Kosipo",
+    scientificName: "Entandrophragma candollei",
+    tradeNames: "Omu · Heavy Sapele · Kossipo",
+    category: "Joinery & Cabinetry",
+    tagline:
+      "A premium African mahogany species distinguished by its deep reddish-brown color with purplish glints, superior density compared to Sapelli, and excellent stability, making it ideal for high-end furniture, joinery, and decorative veneers.",
+    densityBadge: "650 - 750 kg/m³",
+    durabilityBadge: "Class 2 · Durable",
+    swatchBg: "#5a2621",
+    swatchGradient: "from-[#6b2f29] via-[#4d1f1a] to-[#3a140f]",
+    realImage: "/images/wood_products2.jpg",
+    generalCharacteristics:
+      "Kosipo is a distinguished member of the Entandrophragma mahogany family, often referred to as 'Heavy Sapele' due to its higher density and darker color. It offers a rich, deep reddish-brown heartwood with distinctive purplish undertones and occasional dark resin deposits. Kosipo combines excellent dimensional stability, superior mechanical strength, and a stunning ribbon-stripe figure on quarter-sawn surfaces, making it a premium choice for luxury furniture and architectural millwork.",
+    appearance:
+      "Heartwood is a deep reddish-brown to rich mahogany-red with conspicuous purplish glints and occasional black resin deposits in pores. Darker and richer than Sapelli. Sapwood is narrow, pale pinkish-yellow, clearly demarcated. Quarter-sawn surfaces reveal a spectacular, uniform ribbon-stripe figure. Grain is interlocked with medium to fine texture and high natural luster.",
+    density:
+      "Air-dry density is 650 to 750 kg/m³ at 12% moisture content. Medium-heavy weight with excellent mechanical strength and superior dimensional stability. Denser than Sapelli (640–720 kg/m³). Container payloads average 23–26 m³ per 20ft container.",
+    durability:
+      "Class 2 (Durable). Good natural resistance to fungal decay and moderate insect resistance. Higher density provides enhanced structural performance compared to lighter African mahoganies. Performs excellently in interior applications and protected exterior joinery when properly sealed.",
+    typicalApplications:
+      "High-end furniture and cabinetry, architectural millwork, luxury interior doors, decorative veneers, staircases, luxury yacht interiors, executive office furniture, musical instruments (guitar backs and sides), and paneling.",
+    sawnTimberConsiderations:
+      "Moderately easy to work with hand and machine tools despite higher density. Interlocked grain requires sharp cutters and reduced cutting angle (15°–20°) on quarter-sawn ribbon-stripe surfaces to prevent tearout. Saws, planes, and molds cleanly with carbide tooling. Pre-drilling recommended for hardwood screws near edges. Glues, stains, and finishes beautifully. Kiln-dries well with careful scheduling; excellent dimensional stability once seasoned.",
+    logSupplyConsiderations:
+      "Large cylindrical logs typically 70cm to 120cm+ diameter with minimal sapwood. Good lumber recovery with consistent deep color and spectacular ribbon figure on quarter-sawn material. Available from Cameroon and Congo Basin concessions; supply is more limited than high-volume Sapelli.",
+    buyerConsiderations:
+      "Specify moisture requirement (Kiln-Dried 10–12% for interior furniture and millwork essential for stability). State sawing orientation (quarter-sawn for premium ribbon-stripe figure vs plain-sawn). Confirm grade (FAS export grade for premium applications). For decorative veneer projects, request quarter-sawn specification and provide figure samples for matching. State acceptable resin deposit levels (natural characteristic but may be excluded for ultra-premium applications).",
+  },
+  {
+    id: "zingana",
+    name: "Zingana",
+    scientificName: "Microberlinia brazzavillensis",
+    tradeNames: "Zebrawood · Zebrano · Allen Ele",
+    category: "Decorative & Flooring",
+    tagline:
+      "Africa's most visually dramatic hardwood, famous for its spectacular golden-brown background with bold dark brown to nearly black zebra-like stripes, exceptional hardness, and stunning figure for high-end decorative veneers and statement furniture.",
+    densityBadge: "750 - 850 kg/m³",
+    durabilityBadge: "Class 2-3 · Durable",
+    swatchBg: "#8f6f3a",
+    swatchGradient: "from-[#a07f48] via-[#7d5f2e] to-[#5f4620]",
+    realImage: "/images/wood_products.jpg",
+    generalCharacteristics:
+      "Zingana (Zebrawood/Zebrano) is one of the most visually striking commercial hardwoods in the world, instantly recognizable by its bold alternating light and dark stripes resembling zebra patterns. This Central African specialty timber combines exceptional visual drama with high density (Janka ~1,570 lbf), excellent dimensional stability, and good natural durability. It is the ultimate choice for statement furniture, decorative veneers, and luxury architectural accents where visual impact is paramount.",
+    appearance:
+      "Heartwood displays a distinctive pale golden-yellow to light tan background dramatically striped with narrow, closely-spaced dark brown to nearly black irregular bands creating the iconic zebra-like pattern. Sapwood is narrow, pale cream, clearly demarcated. Grain is interlocked and wavy with a coarse texture. Natural luster is moderate to high.",
+    density:
+      "Air-dry density is 750 to 850 kg/m³ at 12% moisture content. Heavy and very hard with excellent wear resistance and dimensional stability. Container payloads average 22–25 m³ per 20ft container due to weight density.",
+    durability:
+      "Class 2–3 (Durable to Moderately Durable). Good resistance to fungal decay and termites. Heartwood is resistant to preservative treatment. Vulnerable to common furniture beetle in sapwood. Performs excellently in interior applications and satisfactorily in protected exterior use when properly sealed.",
+    typicalApplications:
+      "High-end decorative veneers, luxury furniture and cabinetry, architectural accent panels, turned objects, musical instruments (guitar backs, sides, and bodies), inlays and marquetry, knife and tool handles, luxury yacht interiors, executive desks, and statement pieces.",
+    sawnTimberConsiderations:
+      "Moderately difficult to work due to high density and interlocked, wavy grain. Carbide tooling essential for extended tool life. Irregular grain is highly prone to severe tearout during planing and milling; requires razor-sharp cutters, very light passes, and reduced cutting angle (12°–15°). Quarter-sawn material machines more cleanly than plain-sawn. Pre-drilling required for all fasteners. Glues satisfactorily. Takes finishes well but requires careful sanding to avoid cross-grain scratches that highlight stripe pattern unevenly.",
+    logSupplyConsiderations:
+      "Moderately large logs typically 50cm to 80cm diameter. Best zebra striping occurs in mature trees; younger trees have less pronounced figure. Recovery yields of wide boards can be limited due to log diameter constraints. Supply is more limited than high-volume commercial species; premium figured logs command significant premiums.",
+    buyerConsiderations:
+      "Specify grade (FAS export grade for premium decorative veneers; bold, uniform stripe pattern essential). State moisture requirement (Kiln-Dried 8–10% for interior furniture and millwork essential). For veneer projects, request rotary-cut or quarter-sawn specification and provide stripe pattern samples for matching. Confirm acceptable sapwood content (typically excluded for premium decorative applications). Due to limited supply and high demand, confirm availability and lead times before large orders.",
+  },
 ];
 
 export default function TimberSpeciesPage() {
